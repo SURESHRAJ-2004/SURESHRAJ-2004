@@ -14,7 +14,7 @@
 
 ### 🛠️ Languages & Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,spring,intellij,git-hub,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,spring,github,mysql,vscode" />
 </p>
 
 ---
@@ -33,7 +33,3 @@
   </a>
 </p>
 
----
-
-### ⚡ Fun Fact
-> I love solving bugs more than solving Rubik’s cubes! 🧠💡  
