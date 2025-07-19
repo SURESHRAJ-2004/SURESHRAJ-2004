@@ -14,15 +14,7 @@
 
 ### 🛠️ Languages & Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,git,mysql,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SURESH_USERNAME&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=SURESH_USERNAME&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,spring,intellij,git,mysql,vscode" />
 </p>
 
 ---
@@ -30,6 +22,6 @@
 ### 📫 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/sursehraj-sr/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="mailto:sureshraj6804@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
 </p>
