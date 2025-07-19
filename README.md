@@ -22,7 +22,7 @@
 ### 📫 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/sursehraj-sr/">
+  <a href="https://www.linkedin.com/in/sureshraj-sr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
   </a>
   <a href="mailto:sureshraj6804@gmail.com">
