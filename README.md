@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suresh</h1>
+<h1 align="center">Hi 👋, I'm Suresh Raj</h1>
 <h3 align="center">Fresher | Java Backend & React Frontend Enthusiast</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
