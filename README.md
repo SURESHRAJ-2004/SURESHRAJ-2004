@@ -1,27 +1,45 @@
-<h1 align="center">Hi 👋, I'm Suresh</h1>
-<h3 align="center">Fresher | Java Backend & React Frontend Enthusiast</h3>
+<h1 align="center">👋 Hello, I'm Suresh</h1>
+<h3 align="center">💻 Fresher | Java Backend & React Frontend Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 I graduated with **Bachelor of Commerce in Computer Applications
-- 🌱 I’m learning **DSA in Java, and System Design**
-- 👨‍💻 Actively building and learning through hands-on coding
-- 💬 Ask me about **Java, Spring Boot, React, MySQL**
-- 📫 How to reach me: **surehraj6804@gmail.com**
-- ⚡ Fun fact: I love solving coding problems and designing clean UIs
-
----
-
-### 🛠️ Languages & Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,spring,intellij,git,mysql,vscode" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 🙋‍♂️ About Me
+- 🎓 Bachelor of Commerce in Computer Applications  
+- 🌱 Currently learning: **DSA in Java**, **System Design**, & **Spring Boot**  
+- 👨‍💻 I enjoy building real-world web apps & APIs  
+- 💬 Ask me about: **Java, Spring Boot, React, MySQL**  
+- 📫 Reach me at: **sureshraj6804@gmail.com**
 
-<p>
-  <a href="https://www.linkedin.com/in/sursehraj-sr/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:sureshraj6804@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
+---
+
+### 🌐 My Portfolio
+📎 Check out my work and projects here:  
+👉 [sureshraj-portfolio](https://sureshraj-sr.web.app) 
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,python,mysql,git,vscode,intellij" />
 </p>
+
+---
+
+### 🔗 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/sursehraj-sr/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:sureshraj6804@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I love solving bugs more than solving Rubik’s cubes! 🧠💡  
