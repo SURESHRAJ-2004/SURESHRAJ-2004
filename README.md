@@ -11,30 +11,40 @@
 - ⚡ Fun fact: I love solving coding problems and designing clean UIs
 
 ---
-### 🛠️  I Code In  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> **Java**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> **Spring Boot**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> **SQL**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/javascript.png"/> **JavaScript**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/html-5.png"/> **HTML5**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/css3.png"/> **CSS3**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/react-native.png"/> **React JS**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/nodejs.png"/> **Node.js**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/> **MongoDB**  
+### 🚀 I Code In  
+
+<p align="center">
+  <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
 
 ---
 
 ### 🛠 IDE & Tools I Use  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> **VS Code**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> **IntelliJ IDEA**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/github.png"/> **GitHub**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> **Firebase**  
+
+<p align="center">
+  <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/github.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+</p>
 
 ---
 
 ### 💻 Operating Systems  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/linux.png"/> **Linux**  
-- <img height="30" width="30" src="https://img.icons8.com/color/48/000000/windows-10.png"/> **Windows** 
+
+<p align="center">
+  <img height="40" src="https://img.icons8.com/color/48/000000/linux.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+</p>
+
 
 ---
 
