@@ -57,8 +57,7 @@
   <a href="mailto:sureshraj6804@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge">
   </a>
-  <a href="https://sureshraj-sr.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge">
-  </a>
+  
+  
 </p>
 
