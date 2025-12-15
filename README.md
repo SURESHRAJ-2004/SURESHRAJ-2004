@@ -1,81 +1,68 @@
-<h1 align="center">Hi there, I'm Suresh Raj <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+<h1 align="center">Hi there, I'm Suresh Raj <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand/Waving%20Hand.png" alt="Waving Hand" width="30" /></h1>
 <h3 align="center">Java Backend Developer & React Frontend Enthusiast 🚀</h3>
 
 <br/>
 
-<table>
+<table align="center" style="border: none;">
   <tr>
-    <td width="60%" valign="center" style="border: none;">
+    <td width="55%" valign="center" style="border: none;">
       <h3>👨‍🎓 About Me</h3>
       <ul>
-        <li>🎓 <b>B.Com(CA) Graduate</b> with a passion for coding.</li>
-        <li>🌱 Currently deepening skills in <b>Java DSA, Spring Boot, & System Design</b>.</li>
-        <li>💻 Focused on building scalable backend systems and modern web applications.</li>
-        <li>⚡ Always curios to explore new technologies!</li>
-        <li>📬 Reach me at: <b>sureshraj6804@gmail.com</b></li>
+        <li>🎓 <b>B.Com(CA) Graduate</b></li>
+        <li>🌱 Learning <b>Java DSA, Spring Boot & System Design</b></li>
+        <li>💻 Passionate about building modern web apps</li>
+        <li>⚡ Curious to explore new technologies!</li>
+        <li>📬 Contact: <a href="mailto:sureshraj6804@gmail.com">sureshraj6804@gmail.com</a></li>
       </ul>
-      <br/>
-      <a href="https://www.linkedin.com/in/sureshraj-sr">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
-      </a>
-      <a href="mailto:sureshraj6804@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
-      </a>
+      <p>
+        <a href="https://www.linkedin.com/in/sureshraj-sr">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="mailto:sureshraj6804@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+      </p>
     </td>
-    <td width="40%" valign="center" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="developer-gif"/>
+    <td width="45%" valign="center" style="border: none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center">
-  <h3>🚀 Tech Stack & Tools</h3>
-</div>
+<h3 align="center">🚀 Tech Stack</h3>
 
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="33%" style="border: none;">
-      <h4>🧠 Backend</h4>
-      <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-      <img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/>
-      <img height="40" src="https://img.icons8.com/color/48/nodejs.png"/>
-    </td>
-     <td align="center" width="33%" style="border: none;">
-      <h4>🎨 Frontend</h4>
-      <img height="40" src="https://img.icons8.com/color/48/react-native.png"/>
-      <img height="40" src="https://img.icons8.com/color/48/javascript.png"/>
-      <img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
-      <img height="40" src="https://img.icons8.com/color/48/css3.png"/>
+      <h4>Backend</h4>
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java"/>
+      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot" alt="Spring"/>
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" alt="NodeJS"/>
     </td>
     <td align="center" width="33%" style="border: none;">
-      <h4>🗄️ Database</h4>
-      <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-      <img height="40" src="https://img.icons8.com/color/48/mongodb.png"/>
+      <h4>Frontend</h4>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" alt="React"/>
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" alt="JS"/>
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" alt="HTML"/>
     </td>
-  </tr>
-  <tr>
-     <td align="center" colspan="3" style="border: none;">
-       <h4>🛠 Tools & OS</h4>
-        <img height="35" src="https://img.icons8.com/color/48/intellij-idea.png"/>
-        <img height="35" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-        <img height="35" src="https://img.icons8.com/color/48/git.png"/>
-        <img height="35" src="https://img.icons8.com/color/48/github.png"/>
-        &nbsp; | &nbsp;
-        <img height="35" src="https://img.icons8.com/color/48/linux.png"/>
-        <img height="35" src="https://img.icons8.com/color/48/windows-10.png"/>
-     </td>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Database</h4>
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" alt="MySQL"/>
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" alt="MongoDB"/>
+    </td>
   </tr>
 </table>
 
----
-
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <h4>🛠 Tools & Environment</h4>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ" alt="IntelliJ"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" alt="Git"/>
+  &nbsp; | &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" title="Windows" alt="Windows"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" alt="Linux"/>
 </div>
 
 <br/>
