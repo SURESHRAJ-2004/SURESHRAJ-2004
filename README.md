@@ -30,16 +30,15 @@
 public class SureshRaj {
 
     String role     = "Java Full Stack Developer";
-    String degree   = "B.Com (Computer Applications)";
+    String degree   = "Bachelor Commerce (Computer Applications)";
     String location = "India 🇮🇳";
 
     String[] learning = {
         "Java DSA",
-        "Spring Boot",
+        "Problem Solving",
         "System Design"
     };
 
-    String goal = "Land my first IT role in 2026 🚀";
     String email = "sureshraj6804@gmail.com";
 }
 ```
