@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Suresh%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20%7C%20React%20Frontend&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Suresh%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Dtsck%20%7C%20Developer&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
 
 </div>
 
@@ -79,47 +79,7 @@ public class SureshRaj {
 
 ---
 
-### 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📅 Study Planner</h4>
-      <p>A full-stack productivity app with JWT auth, Spring Boot backend, React frontend, and Recharts visualizations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔧 Laptop Repair — Freelance</h4>
-      <p>Running a local laptop repair business with services including OS installation, RAM/SSD upgrades, and remote AnyDesk support.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Service-Home_Visits-0A66C2?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Remote-AnyDesk-EF0000?style=flat-square&logo=anydesk&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sureshraj-sr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshraj-sr&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshraj-sr&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
-<div align="center">
 
 ### 🤝 Let's Connect!
 
