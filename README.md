@@ -30,8 +30,7 @@
 public class SureshRaj {
 
     String role     = "Java Full Stack Developer";
-    String degree   = "Bachelor Commerce (Computer Applications)";
-    String location = "India 🇮🇳";
+    String location = "Salem TN";
 
     String[] learning = {
         "Java DSA",
@@ -52,7 +51,6 @@ public class SureshRaj {
 **Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
