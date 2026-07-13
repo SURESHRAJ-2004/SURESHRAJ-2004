@@ -17,7 +17,7 @@
 </a>
 
 
-<a href="https:/sureshraj-sr.vercel.app"> 
+<a href="https://sureshraj-sr.vercel.app/"> 
 <img src="https://komarev.com/ghpvc/?username=sureshraj-sr&style=flat-square&color=2c5364&label=Profile+Views"/>
 </a>
 </div>
@@ -38,9 +38,10 @@ public class SureshRaj {
 
     String[] learning = {
         "Java DSA",
-        "Problem Solving",
-        "System Design"
+        "System Design",
+        "Ai agents"
     };
 
     String email = "sureshraj6804@gmail.com";
+    String portfolio = "https://sureshraj-sr.vercel.app/"
 }
