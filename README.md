@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36px" /> I'm Suresh</h1><p align="center">
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36px" /> I'm Suresh Raj</h1><p align="center">
   <strong>Full-Stack Developer</strong> | <strong>AI & GenAI Enthusiast</strong> | <strong>Cloud & Backend Developer</strong><br>
   I build full-stack web applications, explore AI-powered development, and work with modern backend, cloud, and deployment technologies.
 </p>---
@@ -6,7 +6,7 @@
 🌟 About Me
 
 - 🌍 Based in India
-- 🎓 Currently pursuing MCA (2026–2028)
+- 🎓 Bachelor of commerce in Computer Application 
 - 💻 Focused on Full-Stack Development
 - 🧠 Exploring Generative AI, AI Agents, MCP, LLMs & AI-powered development
 - ☁️ Learning and working with AWS & Cloud technologies
@@ -35,7 +35,7 @@
 - AI-assisted Development
 - Prompt Engineering
 - Vibe Coding
-- n8n Automation
+- Automation
 
 ---
 
@@ -64,9 +64,9 @@ Tech: React · Node.js · Express.js · PostgreSQL · Supabase
 🚀 Let's Connect
 
 - 🔗 Portfolio: [https://sureshraj-sr.vercel.app/]
-- 💼 LinkedIn: [https://sureshraj-sr/]
-- 💻 GitHub: [Add your GitHub URL]
-- 💌 Email: [Add your email]
+- 💼 LinkedIn: [https://in.linkedin.com/in/sureshraj-sr]
+- 💻 GitHub: [https://github.com/SURESHRAJ-2004]
+- 💌 Email: [sureshraj6804@gmail.com]
 
 ---
 
