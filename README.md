@@ -11,8 +11,8 @@
 - 🧠 Exploring Generative AI, AI Agents, MCP, LLMs & AI-powered development
 - ☁️ Learning and working with AWS & Cloud technologies
 - 🚀 Interested in building scalable and production-ready applications
-- 🖥️ Portfolio: [Add your portfolio URL]
-- 📬 Contact: [Add your email]
+- 🖥️ Portfolio: [https://sureshraj-sr.vercel.app/]
+- 📬 Contact: [sureshraj6804@gmail.com]
 
 ---
 
@@ -47,12 +47,6 @@ A full-stack platform designed to help students discover and collaborate with su
 
 Tech: React · Node.js · Express.js · PostgreSQL · Supabase
 
-🔹 E-Commerce Web Application
-
-A full-stack e-commerce application with authentication, product management, cart functionality and admin features.
-
-Tech: React · Node.js · Express.js · MongoDB · JWT
-
 ---
 
 📊 What I'm Currently Learning
@@ -69,8 +63,8 @@ Tech: React · Node.js · Express.js · MongoDB · JWT
 
 🚀 Let's Connect
 
-- 🔗 Portfolio: [Add your portfolio URL]
-- 💼 LinkedIn: [Add your LinkedIn URL]
+- 🔗 Portfolio: [https://sureshraj-sr.vercel.app/]
+- 💼 LinkedIn: [https://sureshraj-sr/]
 - 💻 GitHub: [Add your GitHub URL]
 - 💌 Email: [Add your email]
 
