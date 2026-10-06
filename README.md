@@ -1,36 +1,81 @@
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36px" /> I'm Suresh</h1><p align="center">
+  <strong>Full-Stack Developer</strong> | <strong>AI & GenAI Enthusiast</strong> | <strong>Cloud & Backend Developer</strong><br>
+  I build full-stack web applications, explore AI-powered development, and work with modern backend, cloud, and deployment technologies.
+</p>---
 
+🌟 About Me
 
-<div align="center">
+- 🌍 Based in India
+- 🎓 Currently pursuing MCA (2026–2028)
+- 💻 Focused on Full-Stack Development
+- 🧠 Exploring Generative AI, AI Agents, MCP, LLMs & AI-powered development
+- ☁️ Learning and working with AWS & Cloud technologies
+- 🚀 Interested in building scalable and production-ready applications
+- 🖥️ Portfolio: [Add your portfolio URL]
+- 📬 Contact: [Add your email]
 
-<a href="https://www.linkedin.com/in/sureshraj-sr">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="mailto:sureshraj6804@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+🛠️ Tech Stack & Tools
 
+<div align="left">  <!-- Languages -->  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" title="TypeScript" width="36" />  <!-- Frontend -->  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" title="React" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" title="Vite" width="36" />  <!-- Backend -->  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="Node.js" width="36" />  <!-- Database -->  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" title="PostgreSQL" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" width="36" />  <!-- Cloud & DevOps -->  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" title="AWS" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" title="Linux" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" title="Ubuntu" width="36" />  <!-- Tools -->  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="36" /></div>---
 
-<a href="https://sureshraj-sr.vercel.app/"> 
-<img src="https://komarev.com/ghpvc/?username=sureshraj-sr&style=flat-square&color=2c5364&label=Profile+Views"/>
-</a>
-</div>
+🤖 AI & GenAI
 
+- Generative AI
+- LLMs
+- AI Agents
+- MCP (Model Context Protocol)
+- AI-assisted Development
+- Prompt Engineering
+- Vibe Coding
+- n8n Automation
 
-### 🧑‍💻 About Me
+---
 
-```java
-public class SureshRaj {
+🚀 Featured Projects
 
-    String role     = "Java Full Stack Developer";
-    String location = "Salem, Tamil Nadu";
+🔹 COLABMATCH
 
-    String[] learning = {
-        "Java DSA",
-        "System Design",
-        "Ai agents"
-    };
+A full-stack platform designed to help students discover and collaborate with suitable project teammates based on skills and interests.
 
-    String email = "sureshraj6804@gmail.com";
-    String portfolio = "https://sureshraj-sr.vercel.app/"
-}
+Tech: React · Node.js · Express.js · PostgreSQL · Supabase
+
+🔹 E-Commerce Web Application
+
+A full-stack e-commerce application with authentication, product management, cart functionality and admin features.
+
+Tech: React · Node.js · Express.js · MongoDB · JWT
+
+---
+
+📊 What I'm Currently Learning
+
+- Advanced Node.js & Express.js
+- TypeScript
+- PostgreSQL & Supabase
+- AWS & Cloud Deployment
+- Generative AI & AI Agents
+- System Design & Backend Architecture
+- Building applications with AI coding agents
+
+---
+
+🚀 Let's Connect
+
+- 🔗 Portfolio: [Add your portfolio URL]
+- 💼 LinkedIn: [Add your LinkedIn URL]
+- 💻 GitHub: [Add your GitHub URL]
+- 💌 Email: [Add your email]
+
+---
+
+<p align="center">
+  <strong>Building. Learning. Deploying. Improving. 🚀</strong>
+</p>
