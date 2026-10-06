@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36px" /> I'm Suresh Raj</h1><p align="center">
-  <strong>Full-Stack Developer</strong> | <strong>AI & GenAI Enthusiast</strong> | <strong>Cloud & Backend Developer</strong><br>
+  <strong>Full-Stack Developer</strong> | <strong>AI & GenAI Enthusiast</strong> | <strong> Backend Developer</strong><br>
   I build full-stack web applications, explore AI-powered development, and work with modern backend, cloud, and deployment technologies.
 </p>---
 
